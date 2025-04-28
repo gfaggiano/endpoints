@@ -1,0 +1,162 @@
+{
+  "nvidia_control_panel_settings": [
+    {
+      "driver_version": "566.03",
+      "registry_keys": [
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+        "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+      ],
+      "file_locations": {
+        "standard_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ],
+        "dch_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ]
+      },
+      "notes": "Latest driver as of April 2025. DRS files in C:\\ProgramData\\NVIDIA Corporation\\Drs are identical for Standard and DCH drivers. *.nvi and *.nvp represent application-specific profiles, which vary by system. Registry keys unchanged."
+    },
+    {
+      "driver_version": "561.09",
+      "registry_keys": [
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+        "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+      ],
+      "file_locations": {
+        "standard_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ],
+        "dch_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ]
+      },
+      "notes": "Assumed similar DRS file structure to 566.03. No documented changes in DRS file names or locations. Registry keys consistent."
+    },
+    {
+      "driver_version": "560.94",
+      "registry_keys": [
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+        "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+      ],
+      "file_locations": {
+        "standard_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ],
+        "dch_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ]
+      },
+      "notes": "No specific changes noted for DRS files. Registry keys and DRS directory structure assumed unchanged."
+    },
+    {
+      "driver_version": "560.81",
+      "registry_keys": [
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+        "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+      ],
+      "file_locations": {
+        "standard_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ],
+        "dch_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ]
+      },
+      "notes": "Consistent DRS file paths. No evidence of changes in file names or registry keys."
+    },
+    {
+      "driver_version": "560.70",
+      "registry_keys": [
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+        "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+      ],
+      "file_locations": {
+        "standard_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ],
+        "dch_driver": [
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+          "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+        ]
+      },
+      "notes": "Assumed continuity in DRS file structure. Registry keys unchanged."
+    },
+    {
+      "driver_version": "556.12",
+      "registry_keys": [
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+        "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+        "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+        "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+      ],
+      "file_locations": {
+        DotBot: {
+          "standard_driver": [
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+          ],
+          "dch_driver": [
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+            "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+          ]
+        }
+      },
+      "notes": "Oldest version covered. DRS file paths assumed consistent. Registry keys likely unchanged absent specific changelog."
+    }
+  ]
+}
