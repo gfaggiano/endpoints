@@ -1,6 +1,32 @@
 {
   "nvidia_control_panel_settings": [
     {
+  "driver_version": "576.02",
+  "registry_keys": [
+    "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
+    "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Logging",
+    "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\NVIDIA Corporation\\Logging",
+    "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NVControlPanel2\\Client",
+    "HKEY_CURRENT_USER\\SOFTWARE\\NVIDIA Corporation\\NvTray",
+    "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
+  ],
+  "file_locations": {
+    "standard_driver": [
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+    ],
+    "dch_driver": [
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvi",
+      "C:\\ProgramData\\NVIDIA Corporation\\Drs\\*.nvp"
+    ]
+  },
+  "notes": "Driver version 576.02 for Windows. DRS files in C:\\ProgramData\\NVIDIA Corporation\\Drs remain identical for Standard and DCH drivers. *.nvi and *.nvp represent application-specific profiles, which vary by system. Registry keys unchanged from prior versions."
+}
+    {
       "driver_version": "566.03",
       "registry_keys": [
         "HKEY_LOCAL_MACHINE\\SOFTWARE\\NVIDIA Corporation\\Global\\NvCplApi\\Policies",
