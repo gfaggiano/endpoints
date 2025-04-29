@@ -25,7 +25,7 @@
     ]
   },
   "notes": "Driver version 576.02 for Windows. DRS files in C:\\ProgramData\\NVIDIA Corporation\\Drs remain identical for Standard and DCH drivers. *.nvi and *.nvp represent application-specific profiles, which vary by system. Registry keys unchanged from prior versions."
-}
+},
     {
       "driver_version": "566.03",
       "registry_keys": [
