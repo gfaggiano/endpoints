@@ -141,7 +141,7 @@
         "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000"
       ],
       "file_locations": {
-        DotBot: {
+        "DotBot": {
           "standard_driver": [
             "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvprofile.nvp",
             "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvdrssel.bin",
